@@ -2,10 +2,11 @@
 - 👀 I’m a Competitive Programmer and I'm interseted in ML, Devops and Open Source.
 - 🌱 I’m currently a 3rd year student pursuing Btech in the field of Computer Science.
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Suhas Prabhu's GitHub Stats" src="github-readme-stats-dusky-rho.vercel.app/api?username=Suhas-2002">
-</details>
+ <img align="left" alt="Suhas Prabhu's GitHub Stats" src="https://github-readme-stats-three-opal-26.vercel.app/api?username=Suhas-2002">
+
+
 
 ![](https://komarev.com/ghpvc/?username=Suhas-2002&color=blue)
 <!---

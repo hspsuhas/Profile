@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Hi 👋, I am Suhas Prabhu<br>
-- A  passionate Software developer from India
+- A  passionate Software Developer from India
 - How to reach me **suhasprabhu236@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas-2002&label=Profile%20views&color=0e75b6&style=flat" alt="suhas-2002" /> </p>

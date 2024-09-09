@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <a href="https://suhas-2002.io">
+  <a href="https://hspsuhas.io">
     <img src="https://github.com/Suhas-2002/Suhas-2002/assets/85097320/c837d65c-01b2-4de0-bcce-540184348f5c" alt="MasterHead" style="display: block; margin: 0 auto;">
   </a>
 </div>
